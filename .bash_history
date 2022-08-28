@@ -26,3 +26,17 @@ su root
 exit
 ll
 su joy
+ll
+su
+mkdir git
+cd 
+pwd
+ll
+cat /etc/sudoers
+sudo vi /etc/sudoers
+su
+sudo vi /etc/ssh/sshd_config
+ll
+sudo useradd briah
+passwd briah 
+su
