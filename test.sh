@@ -2,4 +2,5 @@ devops
 git
 maven
 tomcat
-nexus
+nexu
+docker
